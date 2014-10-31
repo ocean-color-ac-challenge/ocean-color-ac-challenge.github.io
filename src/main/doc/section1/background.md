@@ -22,6 +22,8 @@ Phase 2 of the OC_CCI will use ERA-Interim data as the meteorological input data
 
 Initial research presented by Dr Lavender at the ESA 2013 Living Planet Symposium showed that small, but likely insignificant, variations in the BOA reflectances can be caused by varying the atmospheric pressure; see Figure 1. 
 
+![Figure 1: Plot of change in Bottom of Atmosphere Reflectance caused by adjusting the atmospheric pressure.](../assets/background_asset1.png) 
+
 In this example a ‘simplistic’ AC was updated to process MERIS imagery; single scattering aerosol estimation using the angstrom exponent for aerosol extrapolation. The differences are higher in the blue (shorter) wavelength region as the atmospheric pressure influences the determination of the Rayleigh scattering.
 
 Therefore, in summary, a Data Challenge to run different AC models / code on the [E-CEO Data Challenges](https://challenges.esa.int) platform with varying meteorological auxiliary information can provide an insight into both the models and variations caused by (sensitivity to) the auxiliary information.
