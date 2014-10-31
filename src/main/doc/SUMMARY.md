@@ -2,4 +2,7 @@
 
 * [About the Challenge](section1/section1.md)
   * [Application to be solved](section1/application.md)
-  
+* [Terms and Conditions](section2/section2.md)  
+  * [Earth Observation data](section2/eo.md)
+  * [In-situ data](section2/insitu.md)
+  * [Code of Conduct](section2/codeconduct.md)
