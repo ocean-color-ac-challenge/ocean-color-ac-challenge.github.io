@@ -34,7 +34,7 @@ devtools::install_github("jbryer/Rgitbook")
 
 ```bash
 cd
-git@github.com:ocean-color-ac-challenge/ocean-color-ac-challenge.github.io.git
+git clone git@github.com:ocean-color-ac-challenge/ocean-color-ac-challenge.github.io.git
 ```
 
 * Checkout the branch you want to publish (e.g. when the Challenge is visible)
