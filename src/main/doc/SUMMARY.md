@@ -8,3 +8,4 @@
   * [Earth Observation data](section2/eo.md)
   * [In-situ data](section2/insitu.md)
   * [Code of Conduct](section2/codeconduct.md)
+* [How to apply](section3/howtoapply.md) 
